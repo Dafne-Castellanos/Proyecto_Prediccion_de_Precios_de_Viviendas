@@ -1,4 +1,4 @@
-# Análisis Avanzado de Datos y Modelado Predictivo de Precios de Viviendas"
+# Análisis Avanzado de Datos y Modelado Predictivo de Precios de Viviendas
 
 Este proyecto se enfoca en explorar técnicas avanzadas de análisis de datos y modelado predictivo para predecir los precios de venta de viviendas. Se evalúan criterios rigurosos, desde la comprensión y preparación de datos hasta la selección justificada de métodos de modelado y evaluación de modelos.
 
