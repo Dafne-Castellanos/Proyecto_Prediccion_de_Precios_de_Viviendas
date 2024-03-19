@@ -15,7 +15,9 @@ El único archivo ejecutable de este proyecto es un archivo Jupyter Notebook (".
 Los usuarios pueden recibir ayuda contactando a los creadores del proyecto, Laura Valentina Rodriguez y Dafne Valeria Castellanos, cuyos correos electrónicos están disponibles en la sección de mantenimiento del proyecto.
 
 ## 🏠 **Mantenimiento y Contribución**
-El proyecto es mantenido y contribuido por Laura Valentina Rodriguez y Dafne Valeria Castellanos. Nuestros correos electrónicos son: 
+Este proyecto fue creado por Laura Rodriguez, Diryon Mora y Dafne Castellanos. Puedes ponerte en contacto con nosotras a través de los siguientes correos electrónicos:
+
 - lauravale.gonzalez@urosario.edu.co
+- diryon.mora@urosario.edu.co
 - dafne.castellanos@urosario.edu.co
 
