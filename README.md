@@ -11,7 +11,7 @@ Este proyecto es útil para quienes desean comprender y aplicar técnicas avanza
 ## 🏠 **¿Cómo pueden comenzar los usuarios con el proyecto?**
 El único archivo ejecutable de este proyecto es un archivo Jupyter Notebook (".ipynb"). Los usuarios pueden comenzar descargando el repositorio y ejecutando el notebook en su entorno de Jupyter. Además, en la carpeta "data" encontrarán las bases de datos necesarias: "sample_submission.csv" y "train.csv", junto con la descripción de los datos en "data_description.txt".
 
-## 🏠 **¿Dónde pueden recibir ayuda los usuarios con tu proyecto?**
+## 🏠 **¿Dónde pueden recibir ayuda los usuarios con el proyecto?**
 Los usuarios pueden recibir ayuda contactando a los creadores del proyecto, Laura Valentina Rodriguez y Dafne Valeria Castellanos, cuyos correos electrónicos están disponibles en la sección de mantenimiento del proyecto.
 
 ## 🏠 **Mantenimiento y Contribución**
